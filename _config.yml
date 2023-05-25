@@ -71,7 +71,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Application for Recruitment specialists:
           - Develop <mark>test automation framework</mark> using <mark>C#</mark>, <mark>Selenium</mark>, <mark>NUnit</mark>;
-          - Maintain <mark>test automation framework</mark>
           - Configure and deploy <mark>SeleniumGrid</mark> in <mark>AWS</mark>
           - Execute full <mark>regression testing</mark> of application;
           - Detect <mark>software defects</mark>, report them, and track further;
@@ -90,7 +89,6 @@ content:
           - Develop <mark>test automation framework</mark> using <mark>Java</mark>, <mark>Selenium</mark>, <mark>TestNG</mark>;
           - Perform <mark>RESTful API test automation</mark>;
           - Execute full <mark>regression testing</mark> of application;
-          - Perform <mark>manual testing</mark>;
           - Analyze <mark>business requirements</mark> (specifications);
           - Detect <mark>software defects</mark>, report about them, and track further;
           - Write <mark>manual test cases</mark> and prepare product <mark>release reports</mark>;
