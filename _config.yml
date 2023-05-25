@@ -70,12 +70,12 @@ content:
           Make technology progress
         description: | # this will include new lines to allow paragraphs
           Application for Recruitment specialists:
-          - Develop automated functional tests of the web application using C#, Selenium, NUnit;
-          - Maintain test automation framework
-          - Configure and deploy SeleniumGrid in AWS
-          - Execute full regression testing of application;
-          - Detect software defects, report them, and track further bug fixes;
-          - Write manual test cases and prepare reports for product releases;
+          - Develop automated functional tests of the web application using <mark>C#</mark>, <mark>Selenium</mark>, <mark>NUnit</mark>;
+          - Maintain <mark>test automation framework</mark>
+          - Configure and deploy <mark>SeleniumGrid</mark> in <mark>AWS</mark>
+          - Execute full <mark>regression testing</mark> of application;
+          - Detect <mark>software defects</mark>, report them, and track further;
+          - Write <mark>manual test cases</mark> and prepare product <mark>release reports</mark>;
 
       - layout: left
         title: Accenture Baltics
@@ -87,15 +87,15 @@ content:
           Make technology progress
         description: | # this will include new lines to allow paragraphs
           Banking Compliance project:
-          - Develop automated functional test of the web application using Java, Selenium, TestNG;
-          - Perform RESTful API test automation;
-          - Execute full regression testing of application;
-          - Run manual tests;
-          - Analyze business requirements (specifications);
-          - Detect software defects, report about them, and track further bug fixes;
-          - Write test cases as well as prepare documentation and reports for product releases;
-          - Onboard and train new-joiners within the project;
-          - Directly communicate with the Client.
+          - Develop automated functional test of the web application using <mark>Java</mark>, <mark>Selenium</mark>, <mark>TestNG</mark>;
+          - Perform <mark>RESTful API test automation</mark>;
+          - Execute full <mark>regression testing</mark> of application;
+          - Perform <mark>manual testing</mark>;
+          - Analyze <mark>business requirements</mark> (specifications);
+          - Detect <mark>software defects</mark>, report about them, and track further;
+          - Write <mark>manual test cases</mark> and prepare product <mark>release reports</mark>;
+          - <mark>Onboard</mark> and <mark>train new-joiners</mark> within the project;
+          - Directly <mark>communicate with the Client</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
