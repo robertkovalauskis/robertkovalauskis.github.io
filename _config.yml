@@ -154,6 +154,41 @@ content:
         description: | # this will include new lines to allow paragraphs
           This course was an introduction into the profession of Software Tester. Theoretical materials allowed me to obtain an ISTQB Foundational level certification.
 
+  - title: Licenses & certifications
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: CCNA Introduction to Networks
+        caption: Issued Jan 2022
+        sub_title: Cisco
+        #        quote: >
+        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: Microsoft Certified Azure Fundamentals
+        caption: Issued Jul 2021
+        sub_title: Microsoft
+        #        quote: >
+        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: edX Verified Certificate for HTML5 and CSS Fundamentals
+        caption: Issued May 2021
+        sub_title: edX
+        #        quote: >
+        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: ISTQB Certified Tester, Foundational Level
+        caption: Issued Aug 2020
+        sub_title: ISTQB - International Software Testing Qualifications Board
+        #        quote: >
+        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
