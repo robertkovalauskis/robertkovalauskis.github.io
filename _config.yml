@@ -69,7 +69,7 @@ content:
         quote: >
           Make technology progress
         description: | # this will include new lines to allow paragraphs
-          # Application for Recruitment specialists:
+          Application for Recruitment specialists:
           - Develop automated functional tests of the web application using C#, Selenium, NUnit;
           - Maintain test automation framework
           - Configure and deploy SeleniumGrid in AWS
@@ -86,7 +86,7 @@ content:
         quote: >
           Make technology progress
         description: | # this will include new lines to allow paragraphs
-          # Banking Compliance project:
+          Banking Compliance project:
           - Develop automated functional test of the web application using Java, Selenium, TestNG;
           - Perform RESTful API test automation;
           - Execute full regression testing of application;
