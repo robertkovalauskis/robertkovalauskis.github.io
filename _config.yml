@@ -185,10 +185,14 @@ content:
 
       - layout: left
         title: ISTQB Certified Tester, Foundational Level
-        caption: Issued Aug 2020
+        caption:
+          Issued Aug 2020
+          Credential ID 20-CTFL-177156-12
         sub_title: ISTQB - International Software Testing Qualifications Board
         #        quote: >
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        link: http://scr.istqb.org/
+        link_text: Certificate
         description: | # this will include new lines to allow paragraphs
 
   - title: A Little More About Me
