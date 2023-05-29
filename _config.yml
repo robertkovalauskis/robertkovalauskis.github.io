@@ -189,7 +189,7 @@ content:
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         link: http://scr.istqb.org/
         link_text: Certificate
-        description: | # this will include new lines to allow paragraphs
+        description: Credential ID 20-CTFL-177156-12 # this will include new lines to allow paragraphs
 
   - title: A Little More About Me
     layout: text
