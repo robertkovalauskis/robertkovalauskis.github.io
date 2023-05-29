@@ -161,6 +161,8 @@ content:
         sub_title: Cisco
         #        quote: >
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        link: https://www.credly.com/badges/73610b72-cb09-4251-8768-3638838ad564?source=linked_in_profile
+        link_text: Certificate
         description: | # this will include new lines to allow paragraphs
 
       - layout: left
@@ -169,6 +171,8 @@ content:
         sub_title: Microsoft
         #        quote: >
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        link: https://www.credly.com/badges/6778104f-172c-4625-9e65-661a77ed3da4?source=linked_in_profile
+        link_text: Certificate
         description: | # this will include new lines to allow paragraphs
 
       - layout: left
