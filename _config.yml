@@ -173,9 +173,7 @@ content:
 
       - layout: left
         title: edX Verified Certificate for HTML5 and CSS Fundamentals
-        caption:
-          Issued May 2021
-          Credential ID 0066f3a77d8c4b618d4c598ffe43cf13
+        caption: Issued May 2021
         sub_title: edX
         #        quote: >
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -185,9 +183,7 @@ content:
 
       - layout: left
         title: ISTQB Certified Tester, Foundational Level
-        caption:
-          Issued Aug 2020
-          Credential ID 20-CTFL-177156-12
+        caption: Issued Aug 2020
         sub_title: ISTQB - International Software Testing Qualifications Board
         #        quote: >
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
