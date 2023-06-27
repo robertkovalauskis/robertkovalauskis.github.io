@@ -63,7 +63,7 @@ content:
       - layout: left
         title: Visma Labs
         link: www.visma.lv/visma-labs/
-        # link_text: boringcompany.com
+        link_text: www.visma.lv
         sub_title: Technical Quality Assurer
         caption: November 2022 - Present
         quote: >
@@ -81,7 +81,7 @@ content:
       - layout: left
         title: Accenture Baltics
         link: www.accenture.com/lv-en/about/company/about-latvia
-        # link_text: boringcompany.com
+        link_text: www.accenture.com
         sub_title: Quality Assurance Engineer
         caption: Aug 2020 - Nov 2022
         quote: >
