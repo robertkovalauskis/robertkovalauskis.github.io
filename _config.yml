@@ -117,13 +117,13 @@ content:
           A comprehensive course about the main aspects of Java programming language, such as Inheritance, Constructors, Polymorphism, Interface and others.  
 
       - layout: left
-        title: University of Latvia
+        title: University of Latvia (Hack my career)
         caption: Feb 2021 - Jan 2022
         sub_title: Computer Science
         #        quote: >
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Hack my career academic IT study program courses provided by the University of Latvia, Faculty of Computing, organized by Accenture. It's basically a full first year of a Bachelor in Computer Science, wrapped in a professional development course. It included subjects like Web Technologies (CSS, JavaScript), Algorithms and Programming (C++), Databases (SQL), Computer Networks and others.  It was also a course that really pushed my boundaries since I  had to combine it with a full-time job.
+          Hack my career academic IT study program provided by the University of Latvia, Faculty of Computing, organized by Accenture. It's basically a full first year of a Bachelor in Computer Science, wrapped in a professional development course. It included subjects like Web Technologies (CSS, JavaScript), Algorithms and Programming (C++), Databases (SQL), Computer Networks and others.  It was also a course that really pushed my boundaries since I  had to combine it with a full-time job.
 
       - layout: left
         title: QA.GURU Test Automation course
@@ -132,7 +132,7 @@ content:
         #        quote: >
         #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Great course about Test automation using Java, Selenoid, Allure Reports.
+          A 3-month-long course with an amazing team of instructors, including Artyom Eroshenko (Qameta Software), whos team developed one of the best modern test reporting tools — Allure Reports and Allure TestOps, Alexey Vinogradov, developer of Selenoid, and others. I got a lot of hands-on experience working on Selenoid, creating Jenkins test automation pipelines, and learned a lot of cool things such as sending test execution notifications to Telegram.
 
       - layout: left
         title: Accenture Automation Testing Bootcamp
