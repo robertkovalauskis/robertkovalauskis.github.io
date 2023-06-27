@@ -70,12 +70,12 @@ content:
           Make progress happen
         description: |
           Application for Recruitment specialists:
-          ⦁	Implemented a CI/CD pipeline for running tests on a disposable <mark>Selenium Grid</mark>
-          ⦁	Developed and maintained a test automation framework using <mark>NUnit</mark>, <mark>C#</mark>
-          ⦁	Maintained release quality control
-          ⦁	Maintained test and release documentation
-          ⦁	Performed manual testing
-          ⦁	Performed API testing using <mark>Postman</mark> and <mark>SoapUI</mark>
+          - Implemented a CI/CD pipeline for running tests on a disposable <mark>Selenium Grid</mark>
+          - Developed and maintained a test automation framework using <mark>NUnit</mark>, <mark>C#</mark>
+          - Maintained release quality control
+          - Maintained test and release documentation
+          - Performed manual testing
+          - Performed API testing using <mark>Postman</mark> and <mark>SoapUI</mark>
 
 
       - layout: left
@@ -88,13 +88,12 @@ content:
           Accent on the future
         description: | 
           Banking Compliance project:
-          ⦁	Developed and maintained a test automation framework using <mark>TestNG</mark>, <mark>Java</mark>
-          ⦁	Maintained release quality control
-          ⦁	Performed manual testing
-          ⦁	Maintained test documentation
-          ⦁	Directly communicated with the Client.
-          ⦁	Automated API testing using <mark>RestAssured</mark>
-
+          - Developed and maintained a test automation framework using <mark>TestNG</mark>, <mark>Java</mark>
+          - Maintained release quality control
+          - Performed manual testing
+          - Maintained test documentation
+          - Directly communicated with the Client.
+          - Automated API testing using <mark>RestAssured</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
