@@ -164,6 +164,7 @@ content:
         link: https://www.credly.com/badges/73610b72-cb09-4251-8768-3638838ad564?source=linked_in_profile
         link_text: Certificate
         description: | # this will include new lines to allow paragraphs
+          Obtained during the Hack my career course (Latvian University).
 
       - layout: left
         title: Microsoft Certified Azure Fundamentals
@@ -174,6 +175,7 @@ content:
         link: https://www.credly.com/badges/6778104f-172c-4625-9e65-661a77ed3da4?source=linked_in_profile
         link_text: Certificate
         description: | # this will include new lines to allow paragraphs
+          Sponsored by Accenture.
 
       - layout: left
         title: edX Verified Certificate for HTML5 and CSS Fundamentals
@@ -184,6 +186,7 @@ content:
         link: https://courses.edx.org/certificates/0066f3a77d8c4b618d4c598ffe43cf13
         link_text: Certificate
         description: | # this will include new lines to allow paragraphs
+          Obtained during the Hack my career course (Latvian University).
 
       - layout: left
         title: ISTQB Certified Tester, Foundational Level
@@ -204,7 +207,7 @@ content:
       - Cycling
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
