@@ -68,13 +68,15 @@ content:
         caption: November 2022 - Present
         quote: >
           Make progress happen
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Application for Recruitment specialists:
-          - Develop <mark>test automation framework</mark> using <mark>C#</mark>, <mark>Selenium</mark>, <mark>NUnit</mark>;
-          - Configure and deploy <mark>SeleniumGrid</mark> in <mark>AWS</mark>
-          - Execute full <mark>regression testing</mark> of application;
-          - Detect <mark>software defects</mark>, report them, and track further;
-          - Write <mark>manual test cases</mark> and prepare product <mark>release reports</mark>;
+          ⦁	Implemented a CI/CD pipeline for running tests on a disposable <mark>Selenium Grid</mark>
+          ⦁	Developed and maintained a test automation framework using <mark>NUnit</mark>, <mark>C#</mark>
+          ⦁	Maintained release quality control
+          ⦁	Maintained test and release documentation
+          ⦁	Performed manual testing
+          ⦁	Performed API testing using <mark>Postman</mark> and <mark>SoapUI</mark>
+
 
       - layout: left
         title: Accenture Baltics
@@ -84,16 +86,15 @@ content:
         caption: Aug 2020 - Nov 2022
         quote: >
           Accent on the future
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Banking Compliance project:
-          - Develop <mark>test automation framework</mark> using <mark>Java</mark>, <mark>Selenium</mark>, <mark>TestNG</mark>;
-          - Perform <mark>RESTful API test automation</mark>;
-          - Execute full <mark>regression testing</mark> of application;
-          - Analyze <mark>business requirements</mark> (specifications);
-          - Detect <mark>software defects</mark>, report about them, and track further;
-          - Write <mark>manual test cases</mark> and prepare product <mark>release reports</mark>;
-          - <mark>Onboard</mark> and <mark>train new-joiners</mark> within the project;
-          - Directly <mark>communicate with the Client</mark>.
+          ⦁	Developed and maintained a test automation framework using <mark>TestNG</mark>, <mark>Java</mark>
+          ⦁	Maintained release quality control
+          ⦁	Performed manual testing
+          ⦁	Maintained test documentation
+          ⦁	Directly communicated with the Client.
+          ⦁	Automated API testing using <mark>RestAssured</mark>
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -102,105 +103,85 @@ content:
         title: Selenium WebDriver with Docker, Jenkins & AWS
         caption: Mar 2023 - Apr 2023
         sub_title: Udemy course
-#        quote: >
-#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           I consider this course as one of the most important steps in my career because it gave me an understanding and hands-on experience on how to build a CI/CD pipeline for running tests on a disposable Selenium Grid. Addition of Docker and docker-compose to my technical skillset allowed me to build a comprehensive, robust, and flexible Test automation architecture. 
 
       - layout: left
         title: Java Programming Masterclass covering Java 11 & Java 17
         caption: Mar 2022 - Jul 2022
         sub_title: Udemy course
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           A comprehensive course about the main aspects of Java programming language, such as Inheritance, Constructors, Polymorphism, Interface and others.  
 
       - layout: left
         title: University of Latvia (Hack my career)
         caption: Feb 2021 - Jan 2022
         sub_title: Computer Science
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Hack my career academic IT study program provided by the University of Latvia, Faculty of Computing, organized by Accenture. It's basically a full first year of a Bachelor in Computer Science, wrapped in a professional development course. It included subjects like Web Technologies (CSS, JavaScript), Algorithms and Programming (C++), Databases (SQL), Computer Networks and others.  It was also a course that really pushed my boundaries since I  had to combine it with a full-time job.
 
       - layout: left
         title: QA.GURU Test Automation course
         caption: Nov 2020 - Mar 2021
         sub_title: Test automation engineer
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           A 3-month-long course with an amazing team of instructors, including Artyom Eroshenko (Qameta Software), whos team developed one of the best modern test reporting tools — Allure Reports and Allure TestOps, Alexey Vinogradov, developer of Selenoid, and others. I got a lot of hands-on experience working on Selenoid, creating Jenkins test automation pipelines, and learned a lot of cool things such as sending test execution notifications to Telegram.
 
       - layout: left
         title: Accenture Automation Testing Bootcamp
         caption: Aug 2020 - Aug 2020
         sub_title: Software tester intern
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           It was a completely free Bootcamp that lasted for a month. It included an intensive course about Java, Cucumber, and Selenium automation using TestNG, Java. After presenting a group project with my new joiner teammates, I got an opportunity to join Accenture Baltics as an intern. Without exaggeration, this Bootcamp opened for me the doors into the world of IT and changed my life. I have never regretted my chosen path. 
 
       - layout: left
         title: Software Development Academy
         caption: 2020 - 2020
         sub_title: Software tester
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           An introductory course into the profession of a Software Tester. Although, it was mostly about testing theory and manual testing, it also included a brief introduction into automation using Selenium and Java. Things that I have learned in this course allowed me to obtain an ISTQB Foundational level certification. But what's more important, it made me to believe in myself, realize that I can enter the world of IT and fulfill my potential.
 
   - title: Licenses & certifications
-    layout: list # Type of content section (list/text)
+    layout: list
     content:
       - layout: left
         title: CCNA Introduction to Networks
         caption: Issued Jan 2022
         sub_title: Cisco
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         link: https://www.credly.com/badges/73610b72-cb09-4251-8768-3638838ad564?source=linked_in_profile
         link_text: Certificate
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Obtained during the Hack my career course (Latvian University).
 
       - layout: left
         title: Microsoft Certified Azure Fundamentals
         caption: Issued Jul 2021
         sub_title: Microsoft
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         link: https://www.credly.com/badges/6778104f-172c-4625-9e65-661a77ed3da4?source=linked_in_profile
         link_text: Certificate
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Sponsored by Accenture.
 
       - layout: left
         title: edX Verified Certificate for HTML5 and CSS Fundamentals
         caption: Issued May 2021
         sub_title: edX
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         link: https://courses.edx.org/certificates/0066f3a77d8c4b618d4c598ffe43cf13
         link_text: Certificate
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Obtained during the Hack my career course (Latvian University).
 
       - layout: left
         title: ISTQB Certified Tester, Foundational Level
         caption: Issued Aug 2020
         sub_title: ISTQB - International Software Testing Qualifications Board
-        #        quote: >
-        #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         link: http://scr.istqb.org/
         link_text: Certificate
-        description: Credential ID 20-CTFL-177156-12 # this will include new lines to allow paragraphs
+        description: Credential ID 20-CTFL-177156-12
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       Alongside my interests in Test Automation and Quality Assurance some of my other interests and hobbies are:
       - Reading non-fiction
       - Gaming
